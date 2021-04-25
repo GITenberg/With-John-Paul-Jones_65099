@@ -1,0 +1,34 @@
+_repo: With-John-Paul-Jones_65099
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: De Land, Clyde Osmer
+    aliases:
+    - Land, Clyde Osmer de
+    - Deland, Clyde O. (Clyde Osmer)
+    birthdate: 1872
+    deathdate: 1947
+    gutenberg_agent_id: '33095'
+    url: http://www.gutenberg.org/2009/agents/33095
+creator:
+  author:
+    agent_name: McIntyre, John Thomas
+    alias: McIntyre, John T. (John Thomas)
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '4311'
+    url: http://www.gutenberg.org/2009/agents/4311
+    wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
+description: ''
+gutenberg_issued: '2021-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: With John Paul Jones
+url: http://www.gutenberg.org/ebooks/65099
